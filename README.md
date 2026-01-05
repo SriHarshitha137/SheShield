@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+SheShield is a women safety application designed to provide immediate assistance during emergency situations using an offline-first and real-time alert system. It allows users to trigger an SOS with minimal interaction, even when internet connectivity or mobile data is unavailable. The app captures critical information such as GPS location and evidence to ensure safety and accountability.
+SheShield integrates fail-safe features including emergency alarms, offline location tracking, and automatic evidence recording. Alerts are securely stored and transmitted once connectivity is restored, while real-time notifications are sent to trusted contacts whenever network access is available.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1w_UcklIuBt2pJMkLnkKpym7I4ZKRPOnx
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+  
