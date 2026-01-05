@@ -1,0 +1,9 @@
+{
+  "name": "She Shield - Women's Safety SOS",
+  "description": "A comprehensive safety application providing instant SOS triggers, live audio/video recording, real-time geolocation tracking, and AI-powered police station detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
